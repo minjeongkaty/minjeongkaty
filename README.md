@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Katy! 
 
-🌱 Computer Science student at University of Victoria<br/>
 👩‍💻 Sharing about my journey and learnings in tech<br/>
-📫 How to reach me: [Instagram](https://www.instagram.com/katykkim?igsh=MWFtY3dvemVrNDUzdQ%3D%3D&utm_source=qr) or [LinkedIn](https://www.linkedin.com/in/katy-kim-4764b0220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/katy-kim-4764b0220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
